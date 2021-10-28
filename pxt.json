@@ -4,7 +4,9 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "Abutton": "github:Google0927/abutton#3937d0f0b3cfedad625d2b5fb60449603bfc7350",
+        "remote": "github:2021-nitic-3i-team5/remote#ab-to-stop"
     },
     "files": [
         "main.blocks",
@@ -15,7 +17,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "4.0.11",
+        "target": "4.0.16",
         "targetId": "microbit"
     },
     "supportedTargets": [
